@@ -9,4 +9,4 @@ Pode-se vêr todos os produtos disponíveis para compra com um hyperlink direto 
 É uma página dedicada aos consumidores fazerem seus pedidos, é nos informados informações como nome completo, telefone, e-mail, senha e um hyperlink para a página de login, caso o consumidor já tenha uma conta registrada em nosso site.
 Logo após o hyperlink, há uma série de opções na qual o consumidor pode escolher, entre o tipo de produto que quer, além de pedir a sua própria encomenda, e ao final dois botões para envio das informações ou remoção delas.
 ## feedback.html
-Nesta parte, o consumidor preenche campos simples como nome e telefone, e logo abaiixo há um campo para preencher com algum comentário ou indignação, com botões de limpar os dados ou envia-los
+Nesta parte, o consumidor preenche campos simples como nome e telefone, e logo abaixo há um campo para preencher com algum comentário ou indignação, com botões de limpar os dados ou envia-los
